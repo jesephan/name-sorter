@@ -1,0 +1,12 @@
+*.log
+.DS_Store
+
+.phpunit.cache
+.phpunit.result.cache
+
+/storage/*.key
+/storage/pail
+/vendor
+Thumbs.db
+# Temporary files
+/tmp
